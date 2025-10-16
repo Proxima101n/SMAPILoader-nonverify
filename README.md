@@ -21,3 +21,7 @@ https://discord.com/invite/ETtycvcJjr
 https://github.com/NRTnarathip/SMAPILoader/wiki/How-To-Install-SMAPI
 
 
+
+that's all!
+
+
