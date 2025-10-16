@@ -20,6 +20,4 @@ https://discord.com/invite/ETtycvcJjr
 # How To Install Wiki
 https://github.com/NRTnarathip/SMAPILoader/wiki/How-To-Install-SMAPI
 
-that's all!
-
 
